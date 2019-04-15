@@ -1,0 +1,10 @@
+C:\Users\Lorenzo\source\repos\McDaniel_PA5\McDaniel_PA5\bin\Debug\McDaniel_PA5.exe.config
+C:\Users\Lorenzo\source\repos\McDaniel_PA5\McDaniel_PA5\bin\Debug\McDaniel_PA5.exe
+C:\Users\Lorenzo\source\repos\McDaniel_PA5\McDaniel_PA5\bin\Debug\McDaniel_PA5.pdb
+C:\Users\Lorenzo\source\repos\McDaniel_PA5\McDaniel_PA5\obj\Debug\McDaniel_PA5.csprojAssemblyReference.cache
+C:\Users\Lorenzo\source\repos\McDaniel_PA5\McDaniel_PA5\obj\Debug\McDaniel_PA5.Form1.resources
+C:\Users\Lorenzo\source\repos\McDaniel_PA5\McDaniel_PA5\obj\Debug\McDaniel_PA5.Properties.Resources.resources
+C:\Users\Lorenzo\source\repos\McDaniel_PA5\McDaniel_PA5\obj\Debug\McDaniel_PA5.csproj.GenerateResource.cache
+C:\Users\Lorenzo\source\repos\McDaniel_PA5\McDaniel_PA5\obj\Debug\McDaniel_PA5.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\source\repos\McDaniel_PA5\McDaniel_PA5\obj\Debug\McDaniel_PA5.exe
+C:\Users\Lorenzo\source\repos\McDaniel_PA5\McDaniel_PA5\obj\Debug\McDaniel_PA5.pdb
